@@ -313,7 +313,7 @@ export default function GASolutionsLanding() {
                       Anúncios (Google)
                     </span>
                     <p className="mt-1 text-xs text-gray-500 sm:mt-2 sm:text-sm">
-                      Recomendamos R$ 20-30/dia
+                      Recomendamos R$ 15/dia
                     </p>
                   </div>
                   <span className="text-xl font-semibold text-gray-400 sm:text-2xl">
