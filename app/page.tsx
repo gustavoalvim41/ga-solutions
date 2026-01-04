@@ -23,7 +23,7 @@ export default function GASolutionsLanding() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-neutral-950 via-neutral-900 to-neutral-950 text-white">
       {/* Hero Section */}
-      <section className="relative flex h-[90dvh] flex-col justify-center overflow-hidden px-4 py-12 md:px-8">
+      <section className="relative flex h-[100dvh] flex-col justify-center overflow-hidden px-4 py-12 md:px-8">
         {/* Background decoration */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-blue-900/20 via-transparent to-transparent"></div>
 
