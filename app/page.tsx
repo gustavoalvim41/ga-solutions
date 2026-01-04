@@ -52,7 +52,7 @@ export default function GASolutionsLanding() {
           </div>
 
           <p className="mt-8 text-sm text-gray-500">
-            Sem complicação • Sem enrolação • Direto ao ponto
+            Sem enrolação • Direto ao ponto
           </p>
         </div>
 
@@ -63,7 +63,7 @@ export default function GASolutionsLanding() {
       </section>
 
       {/* Problema */}
-      <section className="relative border-t border-neutral-800 px-4 py-16 md:px-8 md:py-24">
+      <section className="relative px-4 py-16 md:px-8 md:py-24">
         <div className="mx-auto max-w-5xl">
           <div className="mb-12 text-center md:mb-16">
             <h2 className="mt-4 text-3xl font-bold sm:text-4xl md:mt-6 md:text-6xl">
