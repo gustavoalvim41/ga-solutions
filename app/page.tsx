@@ -46,7 +46,10 @@ export default function GASolutionsLanding() {
           </p>
 
           <div className="mt-8 sm:mt-14">
-            <button className="inline-flex cursor-pointer items-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-blue-700 px-6 py-4 text-base font-bold tracking-wide uppercase shadow-lg shadow-blue-500/30 transition-colors hover:from-blue-700 hover:to-blue-800 sm:gap-3 sm:px-10 sm:py-6 sm:text-lg">
+            <button
+              onClick={handleWhatsAppClick}
+              className="inline-flex cursor-pointer items-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-blue-700 px-6 py-4 text-base font-bold tracking-wide uppercase shadow-lg shadow-blue-500/30 transition-colors hover:from-blue-700 hover:to-blue-800 sm:gap-3 sm:px-10 sm:py-6 sm:text-lg"
+            >
               Quero Aparecer no Google
             </button>
           </div>
