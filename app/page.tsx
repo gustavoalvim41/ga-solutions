@@ -30,10 +30,10 @@ export default function GASolutionsLanding() {
         <div className="relative z-10 mx-auto max-w-5xl text-center">
           <h1 className="text-4xl font-extrabold tracking-tight uppercase sm:text-5xl md:text-8xl md:leading-tight">
             <span className="block bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-              Seu Cliente Tá
+              Seu cliente
             </span>
             <span className="mt-2 block bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text text-transparent sm:mt-3">
-              Procurando Você
+              já está procurando
             </span>
             <span className="mt-2 block bg-gradient-to-r from-white to-gray-300 bg-clip-text text-3xl text-transparent sm:mt-3 sm:text-4xl md:text-6xl">
               no Google
@@ -41,7 +41,7 @@ export default function GASolutionsLanding() {
           </h1>
 
           <p className="mt-6 text-lg font-light text-gray-300 sm:mt-10 sm:text-2xl md:text-3xl">
-            A gente coloca ele direto no seu{" "}
+            A gente leva ele direto pro seu{" "}
             <span className="font-semibold text-blue-500">WhatsApp</span>
           </p>
 
